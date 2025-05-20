@@ -202,7 +202,7 @@ In this phase, I concentrated on the hardware design and initial software setup.
 ![Schematic](./images/schematics_pacs.webp)
 
 ### PCB Design
-![PCB Design](./images/pcb.webp)
+![PCB Design](./images/pcb.svg)
 
 ### 
 
