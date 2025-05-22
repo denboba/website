@@ -199,10 +199,10 @@ In this phase, I concentrated on the hardware design and initial software setup.
 - **Function**: Authentication testing
 
 ### Schematics
-![Schematic](./images/schematics_pacs.webp)
+![Schematic](./images/schematics_pacs.svg)
 
 ### PCB Design
-![PCB Design](./images/pcb.webp)
+![PCB Design](./images/pcb.svg)
 
 ### 
 
